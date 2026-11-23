@@ -1,8 +1,8 @@
 """
 Oasis Infobyte SIP — Data Science Internship
 Task 1: Iris Flower Classification
-Intern: Yash Devidas Chaudhari
-Reference: OIB/N2/IP5780
+Intern: Rutuja Anil Koshti 
+Reference: OIB/N2/IP7748
 """
 
 import sys
@@ -20,7 +20,7 @@ def main():
     print("=" * 65)
     print("🌸 OASIS INFOBYTE SIP — DATA SCIENCE INTERNSHIP")
     print("📌 TASK 1: IRIS FLOWER CLASSIFICATION")
-    print("👤 Intern: Yash Devidas Chaudhari | Track: Data Science")
+    print("👤 Intern: Rutuja Anil Koshti | Track: Data Science")
     print("=" * 65)
     
     # 1. Load Dataset

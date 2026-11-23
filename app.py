@@ -17,7 +17,7 @@ st.set_page_config(
 st.title("🌸 Iris Flower Classification App")
 st.markdown("""
 **Oasis Infobyte — SIP Data Science Internship (Task 1)**  
-* **Intern:** Yash Devidas Chaudhari | **Reference:** OIB/N2/IP5780
+* **Intern:** Rutuja Anil Koshti | **Reference:** OIB/N2/IP7748
 """)
 st.divider()
 
