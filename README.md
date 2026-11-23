@@ -94,20 +94,37 @@ OIBSIP/
 
 ---
 
-## 🚀 How to Run Locally
+🚀 How to Run Locally (VS Code)
+1. Prerequisites
+Python 3.8 or above
+Visual Studio Code
+Git
 
-### 1. Prerequisites
-Ensure Python 3.8+ is installed. Install required packages:
-```bash
-pip install numpy pandas matplotlib seaborn scikit-learn jupyter
-```
+2. Clone the Repository
+git clone YOUR_GITHUB_REPOSITORY_URL
+cd YOUR_PROJECT_FOLDER
+3. Create Virtual Environment
+py -m venv venv
+4. Activate Virtual Environment
+.\venv\Scripts\Activate.ps1
+5. Install Required Libraries
+py -m pip install --upgrade pip
+pip install -r requirements.txt
+6. Run the Iris Flower Classification Application
+streamlit run app.py
+7. Open in Browser
+http://localhost:8501
+8. Run Machine Learning Training Script (Optional)
+py train_and_predict.py
+The application predicts Iris flower species using:
 
-### 2. Launch the Notebook
-Navigate to the directory and run:
-```bash
-jupyter notebook iris_classification.ipynb
-```
-Select **Kernel -> Restart & Run All** to execute all analysis and modeling cells.
+Logistic Regression
+
+K-Nearest Neighbors
+
+Random Forest
+
+The Python training script also evaluates Decision Tree classification.
 
 ---
 
