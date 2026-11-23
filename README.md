@@ -1,16 +1,13 @@
 # 🌸 Task 1: Iris Flower Classification
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://dvdschj8gh2frlg2ndrjjt.streamlit.app/) 
-
 **Oasis Infobyte — SIP (Student Internship Program)**  
 * **Intern Name:** Rutuja Anil Koshti
 * **Track:** Data Science  
 * **Offer Letter ID:** OIB/N2/IP7748 
 * **Repository:** `OIBSIP`  
 * **Folder Name:** `DataScience-Task1-IrisFlowerClassification`  
-
-
 ---
+🌐 Live Web Application:(https://oibsip-datascience-task1-irisflowerclassification-wysvvdfoh9lu.streamlit.app/)
 
 ## 📌 Project Overview
 The Iris Flower Classification dataset is a classic benchmark in machine learning and pattern recognition. The objective of this project is to build an end-to-end classification pipeline that predicts the species of an iris flower based on its morphological measurements:
